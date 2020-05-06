@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BVCSPTest", "BVCSPTest\BVCSPTest.vcxproj", "{8B6C58F3-A64D-4A82-80FE-E90824D17725}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PUSimulator", "PUSimulator\PUSimulator.vcxproj", "{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B6C58F3-A64D-4A82-80FE-E90824D17725}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B6C58F3-A64D-4A82-80FE-E90824D17725}.Debug|Win32.Build.0 = Debug|Win32
+		{8B6C58F3-A64D-4A82-80FE-E90824D17725}.Debug|x64.ActiveCfg = Debug|x64
+		{8B6C58F3-A64D-4A82-80FE-E90824D17725}.Debug|x64.Build.0 = Debug|x64
+		{8B6C58F3-A64D-4A82-80FE-E90824D17725}.Release|Win32.ActiveCfg = Release|Win32
+		{8B6C58F3-A64D-4A82-80FE-E90824D17725}.Release|Win32.Build.0 = Release|Win32
+		{8B6C58F3-A64D-4A82-80FE-E90824D17725}.Release|x64.ActiveCfg = Release|x64
+		{8B6C58F3-A64D-4A82-80FE-E90824D17725}.Release|x64.Build.0 = Release|x64
+		{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}.Debug|Win32.Build.0 = Debug|Win32
+		{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}.Debug|x64.ActiveCfg = Debug|x64
+		{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}.Debug|x64.Build.0 = Debug|x64
+		{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}.Release|Win32.ActiveCfg = Release|Win32
+		{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}.Release|Win32.Build.0 = Release|Win32
+		{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}.Release|x64.ActiveCfg = Release|x64
+		{DF4DAA4B-4057-44D2-B9FA-DEEF7E0414BC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
